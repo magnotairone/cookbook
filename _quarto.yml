@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Receitas da Nossa Casa"
+  author: "Autor"
+  date: "22/12/2025"
+  chapters:
+    - index.qmd
+    - 02_entradas.qmd
+    - 03_pratos_principais.qmd
+    - 04_sobremesas.qmd
+    - 05_bebidas.qmd
+    - 06_fermentados.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+    toc-depth: 2
+
+  pdf:
+    documentclass: scrreprt
+    papersize: a4
+    geometry:
+      - margin=2.5cm
