@@ -66,6 +66,11 @@ title: "Fermentados"
 Deixe fermentar fora da geladeira por 24 horas. Após esse período, conserve na geladeira.
 
 ![](img/kimchi.jpeg)
+
+::: {.callout-note}
+O kimchi pode ser fermentado fora da geladeira por até 2 dias, mas é importante deixar pelo menos quatro dedos de espaço livre até a tampa, para evitar que o pote estoure.
+:::
+
 ## Picles de Alho com Endro
 
 ### Ingredientes {.unnumbered}
