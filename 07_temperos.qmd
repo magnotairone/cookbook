@@ -16,3 +16,37 @@ format: html
 
 ### Modo de preparo {.unnumbered}
 1. Triture todos os ingredientes em um processador/liquidificador.
+
+## Molho Picante de Pimentão Assado (Peri-Peri Sauce)
+
+### Ingredientes {.unnumbered}
+- 3 a 4 pimentões vermelhos, assados e sem pele
+- 1 cebola roxa média, picada
+- 3 a 4 dentes de alho, picados
+- 1 a 4 pimentas vermelhas, picadas (ajuste conforme o nível de ardência desejado)
+- 1/4 de xícara de suco de limão
+- 1/4 de xícara de vinagre de maçã
+- 2 colheres de sopa de páprica defumada
+- 1 colher de sopa de pimenta-caiena (opcional, para mais ardência)
+- 1 colher de chá de cominho em pó
+- 1 colher de chá de orégano seco
+- 1 colher de chá de pimenta-do-reino moída
+- 1 colher de chá de sal
+- 1 colher de sopa de azeite de oliva
+- 1 colher de sopa de açúcar mascavo (para equilibrar)
+- 1/4 de xícara de água (ajuste conforme a consistência desejada)
+- Um pequeno maço de coentro fresco, a gosto (opcional)
+
+### Modo de preparo {.unnumbered}
+1. Preaqueça o forno a 200 °C. Asse os pimentões por cerca de 25 a 30 minutos, até que a pele esteja bem tostada. Alternativamente, eles podem ser chamuscados diretamente na chama do fogão, com cuidado. Deixe esfriar, retire a pele e corte grosseiramente.
+2. Em um liquidificador ou processador, adicione os pimentões assados, a cebola, o alho, as pimentas, o suco de limão, o vinagre de maçã, a páprica defumada, o cominho, o orégano, o sal, a pimenta-do-reino, o açúcar mascavo e o azeite. Bata até obter um molho homogêneo.
+3. Prove e ajuste o sal, o açúcar ou o vinagre, conforme sua preferência. Se o molho estiver muito espesso, acrescente água aos poucos até atingir a consistência desejada.
+4. Deixe esfriar e armazene em um pote bem fechado na geladeira. O molho conserva-se por até duas semanas.
+
+::: {.callout-tip}
+## Dicas e variações
+- Para um sabor mais profundo, a cebola e o alho podem ser refogados antes de serem processados.
+- Após bater, o molho pode ser levado ao fogo baixo por alguns minutos para engrossar e intensificar os sabores.
+- O coentro é opcional e pode ser omitido sem prejuízo da receita.
+- A versão tradicional utiliza pimentas piri-piri; sempre que possível, use-as para maior fidelidade ao molho original.
+:::
